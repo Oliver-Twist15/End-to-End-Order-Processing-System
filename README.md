@@ -1,6 +1,6 @@
-#  Order Management API
+# End-to-End Order Processing System
 
-A scalable and modular **Order Management System API** built with **Node.js**, **Express.js**, and **MySQL**, designed to streamline order placement, tracking, and inventory management.
+A scalable and modular **End-to-End Order Processing System** built with **Node.js**, **Express.js**, and **MySQL**, designed to streamline order placement, tracking, and inventory management.
 
 ##  Features
 
